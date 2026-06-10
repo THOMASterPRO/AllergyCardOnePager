@@ -17,7 +17,7 @@ function App() {
           beamWidth={3}
           beamHeight={30}
           beamNumber={5}
-          lightColor="#ffffff"
+          lightColor="#d29dce"
           speed={3}
           noiseIntensity={1.75}
           scale={0.2}
